@@ -2,6 +2,7 @@ debase: gem
 rubocop: gem
 ruby-debug-ide: gem
 solargraph: gem
+rubocop-rock: gem
 
 rock.vscode.gems:
     osdep:
@@ -9,3 +10,4 @@ rock.vscode.gems:
     - rubocop
     - ruby-debug-ide
     - solargraph
+    - rubocop-rock

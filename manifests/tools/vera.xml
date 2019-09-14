@@ -6,9 +6,10 @@
       collections - the scripts are actually performing the requested tasks.
   </description>
 
-  <depend package="tcl-dev" />
   <depend package="liblua5.1-dev" />
   <depend package="libluabind-dev" />
+  <depend package="python" />
+  <depend package="tcl-dev" />
 </package>
 
 

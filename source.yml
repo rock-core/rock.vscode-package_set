@@ -1,1 +1,5 @@
 name: rock.vscode
+
+version_control:
+  - tools/vera:
+    github: verateam/vera

@@ -11,3 +11,12 @@ rock.vscode.gems:
     - ruby-debug-ide
     - solargraph
     - rubocop-rock
+
+tcl-dev:
+  debian,ubuntu: tcl-dev
+
+liblua5.1-dev:
+  debian,ubuntu: liblua5.1-dev
+
+libluabind-dev:
+  debian,ubuntu: libluabind-dev

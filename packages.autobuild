@@ -1,1 +1,2 @@
 metapackage 'rock.vscode'
+cmake_package 'tools/vera'

@@ -1,2 +1,5 @@
 metapackage 'rock.vscode'
 cmake_package 'tools/vera'
+cmake_package 'tools/rock_vera' do |pkg|
+    pkg.env_set 'VERA_ROOT', File.join(pkg.prefix, 'lib', 'vera++')
+end

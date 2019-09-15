@@ -4,4 +4,4 @@ version_control:
   - tools/vera:
     github: verateam/vera
   - tools/rock_vera:
-    github: rock-core/rock_vera
+    github: rock-core/tools-rock_vera

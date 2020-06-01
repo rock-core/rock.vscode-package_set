@@ -1,5 +1,4 @@
 debase: gem
-rubocop: gem
 ruby-debug-ide: gem
 solargraph: gem
 rubocop-rock: gem

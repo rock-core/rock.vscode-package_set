@@ -6,6 +6,8 @@ debase:
 ruby-debug-ide: gem
 solargraph: gem
 rubocop-rock: gem
+g++-multilib:
+  debian,ubuntu: g++-multilib
 
 rock.vscode.gems:
     osdep:
@@ -14,6 +16,7 @@ rock.vscode.gems:
     - ruby-debug-ide
     - solargraph
     - rubocop-rock
+    - g++-multilib
 
 tcl-dev:
   debian,ubuntu: tcl-dev
@@ -23,3 +26,4 @@ liblua5.1-dev:
 
 libluabind-dev:
   debian,ubuntu: libluabind-dev
+

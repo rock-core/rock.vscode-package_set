@@ -1,0 +1,5 @@
+psych:
+    gem:
+    - name: psych
+      version: "< 5"
+

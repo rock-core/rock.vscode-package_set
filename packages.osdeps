@@ -17,6 +17,9 @@ rock.vscode.gems:
     - solargraph
     - rubocop-rock
     - g++-multilib
+    - psych
+
+psych: ignore
 
 tcl-dev:
   debian,ubuntu: tcl-dev
@@ -26,4 +29,3 @@ liblua5.1-dev:
 
 libluabind-dev:
   debian,ubuntu: libluabind-dev
-
